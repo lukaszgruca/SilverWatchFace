@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="8" lineNum="19" pc="268435531" symbol="initialize"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="8" lineNum="20" pc="268435535" symbol="initialize"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="9" lineNum="24" pc="268435554" symbol="onLayout"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="9" lineNum="25" pc="268435558" symbol="onLayout"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="9" lineNum="26" pc="268435601" symbol="onLayout"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="9" lineNum="27" pc="268435644" symbol="onLayout"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="10" lineNum="33" pc="268435682" symbol="onShow"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="37" pc="268435687" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="41" pc="268435691" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="42" pc="268435727" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="43" pc="268435739" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="44" pc="268435751" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="45" pc="268435763" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="46" pc="268435775" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="47" pc="268435787" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="48" pc="268435799" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="49" pc="268435811" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="50" pc="268435823" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="51" pc="268435835" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="11" lineNum="52" pc="268435847" symbol="onUpdate"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="12" lineNum="67" pc="268435868" symbol="onHide"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="13" lineNum="71" pc="268435873" symbol="onExitSleep"/>
+<entry filename="F:\\Hobby\\Eclipse\\SilverWatchFace\\source\\SilverWatchFaceView.mc" id="14" lineNum="75" pc="268435878" symbol="onEnterSleep"/>
+<entry filename="Rez" id="29" lineNum="18" pc="268437007" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="19" pc="268437019" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="20" pc="268437060" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="22" pc="268437101" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="23" pc="268437237" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="24" pc="268437383" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="25" pc="268437519" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="26" pc="268437665" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="27" pc="268437801" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="28" pc="268437947" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="29" pc="268438093" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="30" pc="268438229" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="31" pc="268438375" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="32" pc="268438521" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="33" pc="268438667" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="34" pc="268438813" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="35" pc="268438959" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="36" pc="268439105" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="37" pc="268439238" symbol="WatchFace"/>
+<entry filename="Rez" id="29" lineNum="39" pc="268439371" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="19" method="true" symbol="&lt;globals/SilverWatchFaceView/&lt;&gt;setBatteryDisplay&gt;"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="9" object="true" symbol="SilverWatchFaceApp"/>
+<entry id="17" method="true" symbol="&lt;globals/SilverWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="23" method="true" symbol="&lt;globals/SilverWatchFaceView/&lt;&gt;setCaloriesDisplay&gt;"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry field="true" id="11" symbol="customFont"/>
+<entry id="22" method="true" symbol="&lt;globals/SilverWatchFaceView/&lt;&gt;setRHRDisplay&gt;"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="12" symbol="customIcons"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="16" symbol="sample"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="28" symbol="LauncherIcon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="14" symbol="batteryInt"/>
+<entry field="true" id="29" symbol="icofont"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="20" method="true" symbol="&lt;globals/SilverWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
+<entry id="25" method="true" symbol="&lt;globals/SilverWatchFaceView/&lt;&gt;setAlititudeDisplay&gt;"/>
+<entry id="26" module="true" symbol="Layouts"/>
+<entry id="21" method="true" symbol="&lt;globals/SilverWatchFaceView/&lt;&gt;setHeartrateDisplay&gt;"/>
+<entry id="10" object="true" symbol="SilverWatchFaceView"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="18" method="true" symbol="&lt;globals/SilverWatchFaceView/&lt;&gt;setClockDisplay&gt;"/>
+<entry id="24" method="true" symbol="&lt;globals/SilverWatchFaceView/&lt;&gt;setPressureDisplay&gt;"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="27" module="true" symbol="Menus"/>
+<entry field="true" id="30" symbol="typicons22"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="13" symbol="i"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry field="true" id="15" symbol="hrIterator"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435682" name="dc" stackId="1" startPc="268435554"/>
+<entry endPc="268435868" name="dc" stackId="1" startPc="268435687"/>
+<entry endPc="268436068" name="date" stackId="2" startPc="268435887"/>
+<entry endPc="268436068" name="now" stackId="1" startPc="268435887"/>
+<entry endPc="268436068" name="dateDisplay" stackId="4" startPc="268435887"/>
+<entry endPc="268436068" name="dateString" stackId="3" startPc="268435887"/>
+<entry endPc="268436202" name="view" stackId="3" startPc="268436073"/>
+<entry endPc="268436202" name="timeString" stackId="2" startPc="268436073"/>
+<entry endPc="268436202" name="clockTime" stackId="1" startPc="268436073"/>
+<entry endPc="268436446" name="battery" stackId="1" startPc="268436207"/>
+<entry endPc="268436446" name="batteryIcon" stackId="3" startPc="268436207"/>
+<entry endPc="268436446" name="batteryDisplay" stackId="2" startPc="268436207"/>
+<entry endPc="268436536" name="stepCount" stackId="2" startPc="268436451"/>
+<entry endPc="268436536" name="stepCountDisplay" stackId="1" startPc="268436451"/>
+<entry endPc="268436626" name="hr" stackId="2" startPc="268436541"/>
+<entry endPc="268436626" name="heartrateDisplay" stackId="1" startPc="268436541"/>
+<entry endPc="268436718" name="rhr" stackId="2" startPc="268436631"/>
+<entry endPc="268436718" name="RHRDisplay" stackId="1" startPc="268436631"/>
+<entry endPc="268436808" name="caloriesDisplay" stackId="1" startPc="268436723"/>
+<entry endPc="268436808" name="calories" stackId="2" startPc="268436723"/>
+<entry endPc="268436910" name="pressure" stackId="2" startPc="268436813"/>
+<entry endPc="268436910" name="pressureDisplay" stackId="1" startPc="268436813"/>
+<entry endPc="268437006" name="altitude" stackId="2" startPc="268436915"/>
+<entry endPc="268437006" name="altitudeDisplay" stackId="1" startPc="268436915"/>
+<entry endPc="268439538" name="rez_cmp_local_text_CaloriesDisplay" stackId="16" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_RHRDisplayText" stackId="10" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_RHRDisplay" stackId="9" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_HeartrateDisplayText" stackId="13" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_HeartrateDisplay" stackId="12" startPc="268437019"/>
+<entry endPc="268439538" name="local_Rez_Fonts_icofont" stackId="2" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_BatteryDisplay" stackId="5" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_RHRDisplayIcon" stackId="8" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_HeartrateDisplayIcon" stackId="11" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_StepCountDisplay1" stackId="14" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_PressureDisplay" stackId="18" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_TimeDisplay" stackId="6" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_AltitudeDisplay" stackId="19" startPc="268437019"/>
+<entry endPc="268439538" name="local_Rez_Fonts_customFont" stackId="3" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_DateDisplay" stackId="7" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_BatteryIcon" stackId="4" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_CaloriesDisplay1" stackId="17" startPc="268437019"/>
+<entry endPc="268439538" name="rez_cmp_local_text_StepCountDisplay" stackId="15" startPc="268437019"/>
+<entry endPc="268439539" name="dc" stackId="1" startPc="268437007"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="150" parentId="globals" symbolId="SilverWatchFaceView" type="class"/>
+<dataEntry offset="365" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="444" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="483" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="514" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="569" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="608" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="639" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="678" parentId="globals" symbolId="SilverWatchFaceApp" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="SilverWatchFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="SilverWatchFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="SilverWatchFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SilverWatchFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SilverWatchFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SilverWatchFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/SilverWatchFaceView/&lt;&gt;setDateDisplay&gt;" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/SilverWatchFaceView/&lt;&gt;setClockDisplay&gt;" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/SilverWatchFaceView/&lt;&gt;setBatteryDisplay&gt;" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/SilverWatchFaceView/&lt;&gt;setStepCountDisplay&gt;" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/SilverWatchFaceView/&lt;&gt;setHeartrateDisplay&gt;" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/SilverWatchFaceView/&lt;&gt;setRHRDisplay&gt;" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/SilverWatchFaceView/&lt;&gt;setCaloriesDisplay&gt;" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/SilverWatchFaceView/&lt;&gt;setPressureDisplay&gt;" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/SilverWatchFaceView/&lt;&gt;setAlititudeDisplay&gt;" parent="SilverWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

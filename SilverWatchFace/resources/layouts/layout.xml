@@ -1,0 +1,25 @@
+<layout id="WatchFace">
+    <label id="BatteryIcon" text="d" x="135" y="1" font="@Fonts.icofont" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_DK_GRAY" />
+    <label id="BatteryDisplay" text="00" x="108" y="1" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    
+    <label id="TimeDisplay" text="Time" x="150" y="67" font="@Fonts.customFont" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_WHITE" />
+    <label id="DateDisplay" text="Date" x="160" y="80" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" />      
+    
+    <label id="RHRDisplayIcon" text="e" x="45" y="40" font="@Fonts.icofont" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_DK_GRAY" />
+    <label id="RHRDisplay" text="000" x="64" y="40" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_LT_GRAY" />
+    <label id="RHRDisplayText" text="RHr" x="66" y="40" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_DK_GRAY" />
+    
+    <label id="HeartrateDisplayIcon" text="e" x="147" y="39" font="@Fonts.icofont" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_DK_GRAY" />
+    <label id="HeartrateDisplay" text="000" x="182" y="37" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_WHITE" />
+    <label id="HeartrateDisplayText" text="bpm" x="184" y="42" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_DK_GRAY" />
+    
+    <label id="StepCountDisplay1" text="Steps:" x="120" y="200" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_DK_GRAY" />
+    <label id="StepCountDisplay" text="00000" x="122" y="200" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_LT_GRAY" />
+    <label id="CaloriesDisplay" text="0000" x="120" y="220" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_LT_GRAY" />
+    <label id="CaloriesDisplay1" text="kcal" x="122" y="220" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_DK_GRAY" />
+     
+    <label id="PressureDisplay" text="" x="35" y="180" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_DK_GRAY" />
+	<label id="AltitudeDisplay" text="" x="210" y="180" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_DK_GRAY" />
+
+	
+</layout>
